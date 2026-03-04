@@ -99,11 +99,17 @@ ________________________________________
 📌 Conclusion
 
 📊 This project demonstrates image classification using deep learning.
+
 🧹 Image data was preprocessed and normalized for training.
+
 🧠 Transfer learning using VGG19 helped extract powerful visual features.
+
 🤖 A custom neural network was built on top of the pretrained model.
+
 🏆 The model successfully classified fashion products into 10 categories.
+
 🔍 Transfer learning reduced training time while maintaining strong accuracy.
+
 🚀 This approach can be extended to real-world product recognition systems.
 ________________________________________
 
